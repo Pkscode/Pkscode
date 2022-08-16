@@ -1,7 +1,7 @@
 ### **Hello, I'm Piyush Kumar Sahoo** 👋
 
 ### 👨🏻‍💻 About Me
-🎓 I'm a Biotechnology Junior pursuing minors in Computer Engineering at Delhi Technological University.\
+🎓 I'm a Biotechnology Senior pursuing minors in Computer Engineering at Delhi Technological University.\
 💡 Interested in working alongside like minded people enthusiastic about Data Science, ML, AI or developing cutting edge tech.\
 🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms, Data Science, ML, AI and System Design.\
 ⚡ In my free time, I pursue Food Blogging and Graphic Designing as side hustles.\
